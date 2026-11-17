@@ -49,7 +49,7 @@ Istanbul Commerce University | 2024
 
 ## 📫 Connect
 
-- LinkedIn: www.linkedin.com/dogukan-recep-keskin
+- LinkedIn: www.linkedin.com/in/dogukan-recep-keskin
 
 ---
 
