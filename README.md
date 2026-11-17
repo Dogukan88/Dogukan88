@@ -4,58 +4,70 @@
 
 ### Data Analyst | Fraud & Risk Analytics | Forensic Data Analysis
 
-I am a Statistics graduate with 2.5+ years of Big Four experience in Forensics, where I worked with large-scale financial and operational data to identify anomalies, investigate suspicious activities, and support data-driven risk assessments.
+Statistics graduate with 2.5+ years of Big Four experience in Forensics at EY. I work with large-scale financial data to identify anomalies, investigate suspicious activity, and support risk-focused decision-making.
 
-I am interested in turning complex datasets into clear insights and practical solutions, particularly in **fraud analytics, financial crime, risk, and business analytics**.
+My interests include **data analytics, fraud detection, financial crime, transaction monitoring, and machine learning**.
+
+[LinkedIn](www.linkedin.com/in/dogukan-recep-keskin) · 
 
 </div>
 
 ---
 
-## 🧰 Skills & Tools
+## 📄 Resume
 
-- **Data Analysis:** SQL, Python, Excel
-- **Data Processing:** Alteryx, PowerShell
-- **Analytics:** Exploratory Data Analysis (EDA), Data Quality, Anomaly Detection
-- **Machine Learning:** Logistic Regression, Decision Trees, Random Forest, K-Means
-- **Domain Knowledge:** Forensic Analytics, Fraud Detection, AML/KYC, Transaction Monitoring
+📥 **[Download my CV (PDF)](Dogukan_Recep_Keskin_CV.pdf)**
 
-## 💼 Experience
 
-**Forensics – EY (Ernst & Young)**
 
-- Analyzed large-volume journal entry and financial datasets to identify unusual patterns and potential risks.
-- Used SQL queries to investigate duplicate entries, suspicious transactions, unusual account movements, and user access-related anomalies.
-- Supported financial statement and trial-balance analyses, and performed AML/KYC reviews involving ownership structures and ultimate beneficial owners.
+## 🧰 Technical Skills
+
+| Category | Skills |
+|---|---|
+| Data & Querying | SQL, Python, Excel |
+| Data Processing | Alteryx, PowerShell |
+| Data Analytics | Exploratory Data Analysis, Data Cleaning, Data Quality, Anomaly Detection |
+| Machine Learning | Logistic Regression, Decision Trees, Random Forest, K-Means |
+| Risk & Compliance | Fraud Analytics, Forensic Data Analysis, AML/KYC, Transaction Monitoring |
+
+## 💼 Professional Experience
+
+### EY (Ernst & Young) — Forensics
+
+- Analyzed high-volume journal-entry and financial datasets to identify unusual patterns and potential risks.
+- Used SQL to investigate duplicate journal entries, suspicious transactions, unusual account movements, and user-access-related anomalies.
+- Supported trial-balance and financial-statement analyses.
+- Performed AML/KYC reviews, including assessments of ownership structures and ultimate beneficial ownership information.
 - Prepared analytical findings and reports for management.
 
-## 📊 Selected Projects
+## 📊 Featured Projects
 
 ### Credit Card Fraud Detection
-An imbalanced classification project using a public credit card transactions dataset.
+Machine learning project using a highly imbalanced credit-card transaction dataset.
 
-- Dataset: 283,726 transactions after data cleaning.
-- Fraud cases: 492.
-- Applied exploratory data analysis and classification techniques.
-- Evaluated model performance with precision, recall, and F1-score, with a focus on the trade-off between detecting fraud and limiting false alerts.
+- Cleaned and prepared the dataset, resulting in **283,726 transactions**.
+- Identified **492 fraud cases** in the cleaned dataset.
+- Evaluated classification performance using precision, recall, and F1-score.
+- Focused on the trade-off between detecting fraudulent transactions and controlling false positives.
 
-### K-Means Clustering – Cross-Continental Income Inequality
-Undergraduate thesis exploring income inequality across continents using K-Means clustering.
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+### Cross-Continental Income Inequality — K-Means Clustering
+Undergraduate thesis applying K-Means clustering to explore income inequality patterns across continents.
+
+**Tools:** Python, Data Analysis, K-Means Clustering
+
+> Add links to the corresponding project repositories above as you publish them.
 
 ## 🎓 Education
 
 **B.Sc. in Statistics**  
-Istanbul Commerce University | 2024
-
-## 📫 Connect
-
-- LinkedIn: www.linkedin.com/in/dogukan-recep-keskin
+Istanbul Commerce University · 2024
 
 ---
 
 <div align="center">
 
-*Always learning, analyzing, and building.*
+*Turning data into insights and insights into action.*
 
 </div>
-
