@@ -16,7 +16,7 @@ www.linkedin.com/in/dogukan-recep-keskin
 
 ## 📄 Resume
 
-📥 **[Download my CV (PDF)](Dogukan_Recep_Keskin_CV.pdf)**
+📥 **[Download my CV (PDF)](Dogukan_Keskin_CV.pdf)**
 
 
 
