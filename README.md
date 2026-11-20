@@ -8,7 +8,7 @@ Statistics graduate with 2.5+ years of Big Four experience in Forensics at EY. I
 
 My interests include **data analytics, fraud detection, financial crime, transaction monitoring, and machine learning**.
 
-[LinkedIn](www.linkedin.com/in/dogukan-recep-keskin) · 
+[LinkedIn] linkedin.com/in/dogukan-recep-keskin
 
 </div>
 
