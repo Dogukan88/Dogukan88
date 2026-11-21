@@ -32,7 +32,7 @@ www.linkedin.com/in/dogukan-recep-keskin
 
 ## 💼 Professional Experience
 
-### EY (Ernst & Young) — Forensics
+### EY (Ernst & Young) — Forensics (Adli Bilişim) Departmanı September 2023 - February 2026
 
 - Analyzed high-volume journal-entry and financial datasets to identify unusual patterns and potential risks.
 - Used SQL to investigate duplicate journal entries, suspicious transactions, unusual account movements, and user-access-related anomalies.
